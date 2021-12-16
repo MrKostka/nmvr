@@ -23,3 +23,16 @@ s_a_ws/src/first_package/launch/__pycache__
 s_a_ws/src/first_package/launch/build
 s_a_ws/src/first_package/launch/install
 s_a_ws/src/first_package/launch/log
+
+t_a_ws/build
+t_a_ws/install
+t_a_ws/log
+t_a_ws/src/first_package/resource
+t_a_ws/src/first_package/test
+t_a_ws/src/first_package/setup.py
+t_a_ws/src/first_package/setup.cfg
+t_a_ws/src/first_package/package.xml
+t_a_ws/src/first_package/launch/__pycache__
+t_a_ws/src/first_package/launch/build
+t_a_ws/src/first_package/launch/install
+t_a_ws/src/first_package/launch/log
